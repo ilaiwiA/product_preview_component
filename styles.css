@@ -40,7 +40,7 @@ body {
     }
 
     .img_holder img {
-        content: url(/images/image-product-desktop.jpg);
+        content: url(images/image-product-desktop.jpg);
     }
 }
 
